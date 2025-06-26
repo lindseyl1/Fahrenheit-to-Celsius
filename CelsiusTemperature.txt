@@ -1,0 +1,6 @@
+Toronto in Celsius: 8
+Lima in Celsius: 18
+Istanbul in Celsius: 13
+Lagos in Celsius: 27
+Shanghai in Celsius: 16
+Sydney in Celsius: 17
